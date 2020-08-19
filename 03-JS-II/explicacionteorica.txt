@@ -1,0 +1,8 @@
+Explicación para un niño de 12 años:
+
+FOR es como pedirle a un personaje de un juego de computadora dar X (una cantidad de) pasos a la derecha y luego Y (una cantidad de) pasos a la izquierda.
+Con el fin de repetir una acción un número de veces. 
+
+&& === AND ambos operadores lógicos deben ser true, sino false
+|| === OR uno de los operadores lógicos puede ser true y el otro false, entonces false 
+! === DISTINTO se coloca delante de un "igual a" si quiero negar la expresión.
